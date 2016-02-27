@@ -1,0 +1,26 @@
+_repo: Trinity-Site-1945-1995-A-National-Historic-Landmark-White-Sands-Missile-Range-New-Mexico_278
+creator:
+  author:
+    agent_name: White Sands Missile Range (N.M.). Public Affairs Office
+    alias: Office, White Sands Missile Range Public Affairs
+    gutenberg_agent_id: '43998'
+    url: http://www.gutenberg.org/2009/agents/43998
+description: ''
+gutenberg_bookshelf: World War II
+gutenberg_issued: '2014-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '278'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Atomic bomb -- New Mexico -- Los Alamos -- Testing -- History'
+- !lcc 'D731'
+- !lcc 'U'
+- !lcc 'QC'
+- !lcsh 'Manhattan Project (U.S.)'
+title: "Trinity Site: 1945-1995.\r\nA National Historic Landmark, White Sands Missile\
+  \ Range, New Mexico"
+url: http://www.gutenberg.org/ebooks/278
