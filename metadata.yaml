@@ -1,5 +1,8 @@
 _repo: Trinity-Site-1945-1995-A-National-Historic-Landmark-White-Sands-Missile-Range-New-Mexico_278
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: White Sands Missile Range (N.M.). Public Affairs Office
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '43998'
     url: http://www.gutenberg.org/2009/agents/43998
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/278#Trinity-Site-1945-1995-A-National-Historic-Landmark-White-Sands-Missile-Range-New-Mexico
 gutenberg_bookshelf: World War II
 gutenberg_issued: '2014-09-14'
 gutenberg_type: Text
