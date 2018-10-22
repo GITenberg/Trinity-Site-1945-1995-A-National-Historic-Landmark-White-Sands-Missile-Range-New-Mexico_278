@@ -1,5 +1,5 @@
 _repo: Trinity-Site-1945-1995-A-National-Historic-Landmark-White-Sands-Missile-Range-New-Mexico_278
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,6 +27,7 @@ subjects:
 - !lcc 'U'
 - !lcc 'QC'
 - !lcsh 'Manhattan Project (U.S.)'
+- GITenberg
 title: "Trinity Site: 1945-1995.\r\nA National Historic Landmark, White Sands Missile\
   \ Range, New Mexico"
 url: http://www.gutenberg.org/ebooks/278
